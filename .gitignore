@@ -1,0 +1,4 @@
+.*
+*.o
+cscope.out
+/embedded_invaders
